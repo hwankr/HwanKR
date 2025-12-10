@@ -27,10 +27,10 @@
   <table>
     <tr>
       <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=HwanKR&show_icons=true&theme=tokyonight&card_width=450" alt="HwanKR's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=hwankr&show_icons=true&theme=tokyonight&card_width=450" alt="hwankr's GitHub stats"/>
       </td>
       <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanKR&theme=tokyonight&card_width=450&langs_count=3" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwankr&theme=tokyonight&card_width=450&langs_count=3" alt="Top Languages"/>
       </td>
     </tr>
   </table>
