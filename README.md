@@ -41,7 +41,7 @@
 <h3 align="center">🤝 Connect with Me</h3>
 <div align="center">
   <a href="mailto:fabronjeon@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="[https://hwankr.tistory.com]"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
+  <a href="https://hwankr.tistory.com"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
 </div>
 
 <div align="center">
