@@ -1,49 +1,54 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&lines=Welcome+to+Hwan's+GitHub)](https://git.io/typing-svg)
-### 👨‍💻 About Me
-- 🎓 **Software Convergence, Computer Science & Engineering** @ Yeungnam University
-- 🌱 Main interests: **Full-stack Web Development**, **AI**
-- 🚀 Goal: To become a creative **Full-stack Developer**
-
----
-
-<h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"/>
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=420&lines=Hi+there%2C+I'm+Hwan+%F0%9F%91%8B;Full-stack+Developer+in+Progress)](https://git.io/typing-svg)
+
+**Software Convergence & CSE** · Yeungnam University
+
 </div>
 
----
+<br>
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🧑‍💻 About
+
+풀스택 웹 개발과 AI에 관심을 갖고 공부하고 있는 개발자입니다.  
+사용자 경험을 고민하며 서비스의 처음부터 끝까지 만들어내는 것을 목표로 하고 있습니다.
+
+<br>
+
+### 🔨 Currently Working On
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [rebalance-it](https://github.com/hwankr/rebalance-it) | 주식 리밸런싱 도우미 | TypeScript |
+| [hwanNote](https://github.com/hwankr/hwanNote) | 노트패드 대체 노트앱 | TypeScript |
+
+> 💡 진행 중인 프로젝트를 위 표에 채워 주세요!
+
+<br>
+
+### 🛠 Tech Stack
+
+**Frontend** · JavaScript · React · Next.js · HTML · CSS
+
+**Backend** · Java · Python
+
+**Tools** · Git
+
+<br>
+
+### 📈 Activity
+
 <div align="center">
-  <table>
-    <tr>
-      <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=hwankr&show_icons=true&theme=tokyonight&card_width=450" alt="hwankr's GitHub stats"/>
-      </td>
-      <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwankr&theme=tokyonight&card_width=450&langs_count=3" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwankr&theme=tokyo-night&hide_border=true&area=true&height=280" width="95%" alt="activity graph"/>
 </div>
 
----
+<br>
 
-<h3 align="center">🤝 Connect with Me</h3>
-<div align="center">
-  <a href="mailto:fabronjeon@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://hwankr.tistory.com"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-</div>
+### 📫 Contact
 
 <div align="center">
-   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHwanKR?color=purple&label=hits&size=small" alt="hits" /></a>
+
+[![Email](https://img.shields.io/badge/fabronjeon@naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabronjeon@naver.com)
+[![Blog](https://img.shields.io/badge/Blog-1e90ff?style=flat-square&logo=Blogger&logoColor=white)](https://hwankr.tistory.com)
+
 </div>
